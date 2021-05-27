@@ -1,8 +1,0 @@
-{
-  "build": {
-    "env": {
-      "BUCKET_SLUG":"hovedprosjekt-development",
-      "READ_KEY":"B5cxXqGbIWdTwz3gtN9hzrEAGbM41ozWlh9XvtQ1D1egp0H1bR"
-    }
-  }
-}
